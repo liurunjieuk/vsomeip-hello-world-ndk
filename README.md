@@ -18,7 +18,7 @@ Git submodule projects:
 ## Project setup
 1. Clone main git project:
 ```
-git clone https://github.com/nkh-lab/ndk-vsomeip-hello-world.git
+git clone https://github.com/liurunjieuk/vsomeip-hello-world-ndk.git
 ```
 2. Clone submodule projects:
 ```
@@ -27,7 +27,7 @@ git submodule update --init
 
 ## Open project in Android Studio
 1. Run Android Studio
-2. Then open ndk-vsomeip-hello-world/vsomeip-hello-world project
+2. Then open vsomeip-hello-world-ndk/vsomeip-hello-world project
 3. Build and run
 4. Expected app output in Logcat:
 ```
