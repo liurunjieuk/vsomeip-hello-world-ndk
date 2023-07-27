@@ -1,6 +1,6 @@
-[submodule "external/vsomeip"]
-	path = external/vsomeip
-	url = https://github.com/GENIVI/vsomeip.git
-[submodule "external/boost-cmake"]
-	path = external/boost-cmake
-	url = https://github.com/Orphis/boost-cmake.git
+[submodule "external/boost-cmake-ndk"]
+	path = external/boost-cmake-ndk
+	url = https://github.com/liurunjieuk/boost-cmake-ndk.git
+[submodule "external/vsomeip-ndk"]
+	path = external/vsomeip-ndk
+	url = https://github.com/liurunjieuk/vsomeip-ndk.git
