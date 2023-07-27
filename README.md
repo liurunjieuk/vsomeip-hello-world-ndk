@@ -6,13 +6,14 @@ Based on the original vsomeip example https://github.com/GENIVI/vsomeip/tree/mas
 ![](doc/SequenceDiagram.png)
 
 ## Environment
-- Android Studio
-- CMake 3.12 (for boost-cmake)
+- Android Studio Dolphin | 2021.3.1
+- CMake 3.18.1 (for boost-cmake-ndk)
+- NDK r24
 
 ## Dependencies
 Git submodule projects:
-- vsomeip 3.1.20.2: (https://github.com/GENIVI/vsomeip.git).
-- boost-cmake: Used CMake adapted boost (https://github.com/Orphis/boost-cmake).
+- vsomeip-ndk 3.3.8: (https://github.com/liurunjieuk/vsomeip-ndk.git).
+- boost-cmake-ndk: Used CMake adapted boost (https://github.com/liurunjieuk/boost-cmake-ndk.git).
 
 ## Project setup
 1. Clone main git project:
